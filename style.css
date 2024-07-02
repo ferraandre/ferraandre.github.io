@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+body{
+    font-family: 'cs';
+    font-size: 18px;
+    src: url('./font_counter_strike/cs_regular.ttf');  
+    border-radius: 2px;
+    background-image:url(610520.jpg);  
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    background-attachment: fixed;
+}
+h1 , h3 , td, p, h4{
+color: #c7ac15;
+padding-bottom: 8px;
+text-align:justify; 
+text-indent: 15px;   
+Line-height:15px;
+}
+h2{
+    Line-height: 15px;
+    color: #c7ac15;
+    padding-bottom: 8px;
+    text-align:justify; 
+    text-indent: 2px;  
+}
+.navegador{
+}
+.intro{
+}
+.audio{
+    margin-top: 2em;
+        .col-8{
+            padding-top:15px;
+        }
+        .col-3{
+            justify-content: end;
+        }
+}
+.historia1{
+    .col-5{
+        margin-top: 2em;
+        padding-left: 2em;
+    }
+    .col-1{}
+    .col-6{
+        margin-top: 7em;
+    }
+}
+.historia2{
+    .col-5{
+        margin-top: 11em;
+    }
+    .col-3{        
+    }
+    .col-3{
+        margin-top: 2em;
+    }
+}
+.historia3{
+    .col-5{
+        margin-top: 3em;
+        padding-left: 8em;
+    }
+    .col-1{}
+    .col-6{
+        margin-top: 9em;
+    }
+}
+.meutrabalho{
+    margin-top: 2em;
+        h2{
+            padding-left: 2em;
+            margin-top: 1em;
+        }
+        p{
+            margin-top: 2em;
+
+        }
+}
+.eugosto{   
+    .col-5{
+        padding-left: 8em;
+        margin-top: 3em;
+    }
+    .col-7{
+        margin-top: 12em;  
+    }
+}
+.tabela{
+    p{
+        padding-left: 2em;  
+    }
+}
